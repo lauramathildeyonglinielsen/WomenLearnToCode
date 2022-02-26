@@ -1,0 +1,19 @@
+body {background-color: bisque;}
+
+h1{font-size: 64px;}
+h1{padding: 10px;}
+h2{font-size: 30px;}
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center;}
+h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center;}
+h3{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: center;}
+h3{font-size: 30px;}
+p{padding: 10px;}
+h2{padding: 10px;}
+h3{padding: 10px;}
+h4{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 30px; padding: 10px; text-align: center;}
+.box{background-color: burlywood; padding: 10px;}
+.box1{background-color: burlywood; padding: 10px; 
+border: 2px solid greenyellow;}
+.BOX{background-color: bisque; padding: 10px; border: 1px solid blue;}
+
+body{background-color: lavender;}
